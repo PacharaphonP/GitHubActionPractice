@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "fireship-lessons-816a7",
+    "fireship-lessons": "fireship-lessons-816a7"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
